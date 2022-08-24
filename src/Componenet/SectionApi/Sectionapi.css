@@ -1,0 +1,27 @@
+.contsection2{
+    /* height: 238px; */
+opacity: 1;
+position: absolute;
+top: 342px;
+    left: 267px;
+    width: 80%;
+    border: 1px solid black;
+}
+.contoption{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+th{
+    border: 1px solid black;
+  }
+  
+  table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    text-align: center;
+  }
